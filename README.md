@@ -35,7 +35,7 @@ This project was developed to demonstrate my skills in modern frontend developme
 
 <!-- Attach your screenshots below -->
 ![Landing Page Desktop View](./Screenshot/image.png)
-![3D Model Section](./screenshots/3dmodel.png)
+![3D Model Section](./Screenshots/Screenshotmobile.png)
 
 > _Place your images inside a `screenshots/` folder in the root directory._
 
