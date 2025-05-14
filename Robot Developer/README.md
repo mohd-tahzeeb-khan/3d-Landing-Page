@@ -32,3 +32,12 @@ Start the server
   npm run dev
 ```
 
+
+
+
+
+---
+
+Let me know if:
+- You want this tailored for Yarn or PNPM instead of NPM.
+- You want this added to a Markdown file in your project automatically.
