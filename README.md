@@ -40,7 +40,7 @@ This project was developed to demonstrate my skills in modern frontend developme
 
 ## 🧑‍💻 Author
 
-Developed by **Mohammad Tahzeeb Khan**, inspired by a tutorial from [MiladiCode YouTube Channel](https://www.youtube.com/@MiladiCode).
+Developed by **Mohammad Tahzeeb Khan**, inspired by a tutorial from [MiladiCode YouTube Channel](https://www.youtube.com/@miladi-code).
 
 ## 📄 License
 
